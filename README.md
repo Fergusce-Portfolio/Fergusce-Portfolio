@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Fergusce Xuan 👋
 
-<!--
-**ferguscelx/ferguscelx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Creative Multimedia Student  
+UI/UX • Motion Graphics • Video Editing • Interactive Media
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎨 Fergusce Portfolio
+My personal Creative Multimedia portfolio.
+
+[View Project →](https://github.com/ferguscelx/fergusce-portfolio)
+
+### 📊 Sales Performance Analysis
+A data analysis project exploring sales performance.
+
+[View Project →](https://github.com/ferguscelx/sales-performance-analysis)
+
+## Skills
+
+- UI/UX Design
+- Motion Graphics
+- Video Editing
+- Interactive Media
+- Adobe Creative Cloud
+- Figma
+- HTML & CSS
