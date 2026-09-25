@@ -8,10 +8,10 @@
 ### 🎨 Fergusce's Portfolio
 My personal Creative Multimedia portfolio.
 
-[View Project →](https://www.behance.net/gallery/245353639/Fergusce-Heng-Li-Xuan-Multimedia-Design-Portfolio?tracking_source=search_projects|fergusce&l=0))
+[View Project →](https://www.behance.net/gallery/245353639/Fergusce-Heng-Li-Xuan-Multimedia-Design-Portfolio?tracking_source=search_projects|fergusce&l=0)
 
-### 📊 Sales Performance Analysis
-A data analysis project exploring sales performance.
+### 💼 Internship Experience
+Intern duration 01-JUNE-2026 - 30-OCTOBER-2026
 
 [View Project →](https://github.com/ferguscelx/sales-performance-analysis)
 
