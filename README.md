@@ -17,9 +17,9 @@ My personal Creative Multimedia portfolio.
 
 Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 
-**HOTLIN**K[View Project →]
+**HOTLIN** [View Project →]
 
-**Nestlé**K[View Project →]
+**Nestlé** [View Project →]
 
 ## Skills
 - Adobe Creative Cloud
