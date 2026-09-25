@@ -1,7 +1,9 @@
 # Hi, I'm Fergusce Heng Li Xuan 👋
 
+I’m passionate about graphic design, packaging design, editorial design, and UI/UX. I enjoy exploring how design, storytelling, and technology come together to create meaningful and engaging experiences.
+
 🎨 Creative Multimedia Student  
-• Graphic Design • Multimedia Design • Packaging Design • Editorial Design • Editorial Design • UI/UX • Video Editing
+• Graphic Design • Multimedia Design • Packaging Design • Editorial Design • UI/UX • Video Editing
 
 ## 🏆 Academic Achievements
 
