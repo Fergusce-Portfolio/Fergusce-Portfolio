@@ -1,7 +1,7 @@
-# Hi, I'm Fergusce Xuan 👋
+# Hi, I'm Fergusce Heng Li Xuan 👋
 
 🎨 Creative Multimedia Student  
-UI/UX • Motion Graphics • Video Editing • Interactive Media
+• Graphic Design • Multimedia Design • Packaging Design • UI/UX 
 
 ## Featured Projects
 
