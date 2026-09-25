@@ -24,9 +24,16 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 
 **Nestlé** [View Project →]
 
-## 🖥️ Skills
+## 🛠️ Skills
 - Adobe Creative Cloud
 - UI/UX Design
 - Motion Graphics
 - Video Editing
   
+## 💻 Tools & Software
+- Adobe Photoshop
+- Adobe Illustrator
+- Adobe After Effects
+- Adobe Premiere Pro
+- Figma
+- Capcut
