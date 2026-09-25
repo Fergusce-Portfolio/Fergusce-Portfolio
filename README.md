@@ -12,6 +12,7 @@ My personal Creative Multimedia portfolio.
 
 ### 💼 Internship Experience
 **Omnicom Media**
+
 Intern duration **01-JUNE-2026 - 30-OCTOBER-2026**
 
 [View Project →](https://github.com/ferguscelx/sales-performance-analysis)
