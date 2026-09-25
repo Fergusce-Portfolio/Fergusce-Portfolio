@@ -3,7 +3,9 @@
 🎨 Creative Multimedia Student  
 • Graphic Design • Multimedia Design • Packaging Design • Editorial Design • Editorial Design • UI/UX • Video Editing
 
-## Featured Projects
+## 🏆 Academic Achievements
+- 🥇 **President's List** — Tunku Abdul Rahman University of Management & Technology (TARUMT)
+- 🎓 **Dean's List** — Tunku Abdul Rahman University of Management & Technology (TARUMT)
 
 ### 🎨 Fergusce's Portfolio
 My personal Creative Multimedia portfolio.
@@ -13,16 +15,14 @@ My personal Creative Multimedia portfolio.
 ### 💼 Internship Experience
 **Omnicom Media**
 
-Intern duration **01-JUNE-2026 - 30-OCTOBER-2026**
+Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 
-[View Project →](https://github.com/ferguscelx/sales-performance-analysis)
+**HOTLIN**K[View Project →]
+
+**Nestlé**K[View Project →]
 
 ## Skills
-
+- Adobe Creative Cloud
 - UI/UX Design
 - Motion Graphics
 - Video Editing
-- Interactive Media
-- Adobe Creative Cloud
-- Figma
-- HTML & CSS
