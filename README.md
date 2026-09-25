@@ -7,12 +7,12 @@
 - 🥇 **President's List** — Tunku Abdul Rahman University of Management & Technology (TARUMT)
 - 🎓 **Dean's List** — Tunku Abdul Rahman University of Management & Technology (TARUMT)
 
-### 🎨 Fergusce's Portfolio
+## 🎨 Fergusce's Portfolio
 My personal Creative Multimedia portfolio.
 
 [View Project →](https://www.behance.net/gallery/245353639/Fergusce-Heng-Li-Xuan-Multimedia-Design-Portfolio?tracking_source=search_projects|fergusce&l=0)
 
-### 💼 Internship Experience
+## 💼 Internship Experience
 **Omnicom Media**
 
 Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
