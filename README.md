@@ -3,7 +3,7 @@
 🎨 Creative Multimedia Student  
 • Graphic Design • Multimedia Design • Packaging Design • Editorial Design • Editorial Design • UI/UX • Video Editing
 
-## 🏆 Academic Achievements
+# 🏆 Academic Achievements
 - 🥇 **President's List** — Tunku Abdul Rahman University of Management & Technology (TARUMT)
 - 🎓 **Dean's List** — Tunku Abdul Rahman University of Management & Technology (TARUMT)
 
