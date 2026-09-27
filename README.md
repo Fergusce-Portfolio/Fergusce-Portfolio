@@ -48,7 +48,7 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
       <b>After Effects</b>
     </td>
     <td align="center" valign="top" width="50">
-      <img src="./Premiere Pro-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
+      <img src="./Premiere Pro-Photoroom.png" width="100" height="100" style="border-radius: 10px; object-fit: contain;"><br>
       <b>Premiere Pro</b>
     </td>
     <td align="center" valign="top" width="50">
