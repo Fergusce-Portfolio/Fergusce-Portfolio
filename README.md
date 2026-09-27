@@ -53,7 +53,7 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
     </td>
     <td align="center" valign="top" width="50">
   <img src="./figma new1.png" width="50" height="50" style="border-radius: 10px; overflow: hidden; display: block;"><br>
-  <div style="margin-top: 5px;">
+  <div style="margin-top: 50px;">
     <b>Figma</b>
   </div>
 </td>
