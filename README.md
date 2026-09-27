@@ -33,11 +33,31 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 - Video Editing
   
 ## 💻 Tools & Software
-<img src="./PS-Photoroom.png" width="50">
-
-- Adobe Photoshop
-- Adobe Illustrator
-- Adobe After Effects
-- Adobe Premiere Pro
-- Figma
-- Capcut
+<table>
+  <tr>
+    <td align="center">
+      <img src="./PS-Photoroom.png" width="50"><br>
+      <b>Photoshop</b>
+    </td>
+    <td align="center">
+      <img src="./AI.png" width="50"><br>
+      <b>Illustrator</b>
+    </td>
+    <td align="center">
+      <img src="./after effect-Photoroom.png" width="50"><br>
+      <b>After Effects</b>
+    </td>
+    <td align="center">
+      <img src="./Premiere Pro.jpg" width="50"><br>
+      <b>Premiere Pro</b>
+    </td>
+    <td align="center">
+      <img src="./figma.png" width="50"><br>
+      <b>Figma</b>
+    </td>
+    <td align="center">
+      <img src="./capcut.png" width="50"><br>
+      <b>CapCut</b>
+    </td>
+  </tr>
+</table>
