@@ -35,28 +35,28 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 ## 💻 Tools & Software
 <table>
   <tr>
-    <td align="center">
-      <img src="./PS-Photoroom.png" width="50"><br>
+    <td align="center" valign="top" width="100">
+      <img src="./PS-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
       <b>Photoshop</b>
     </td>
-    <td align="center">
-      <img src="./AI.png" width="50"><br>
+    <td align="center" valign="top" width="100">
+      <img src="./AI.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
       <b>Illustrator</b>
     </td>
-    <td align="center">
-      <img src="./after effect-Photoroom.png" width="50"><br>
-      <div style="margin-top:-50px;"><b>After Effect</b></div>
+    <td align="center" valign="top" width="100">
+      <img src="./after effect-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
+      <b>After Effects</b>
     </td>
-    <td align="center">
-      <img src="./Premiere Pro-Photoroom.png" width="100"><br>
+    <td align="center" valign="top" width="100">
+      <img src="./Premiere Pro-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
       <b>Premiere Pro</b>
     </td>
-    <td align="center">
-      <img src="./figma.png" width="50"><br>
+    <td align="center" valign="top" width="100">
+      <img src="./figma.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
       <b>Figma</b>
     </td>
-    <td align="center">
-      <img src="./capcut.png" width="50"><br>
+    <td align="center" valign="top" width="100">
+      <img src="./capcut.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
       <b>CapCut</b>
     </td>
   </tr>
