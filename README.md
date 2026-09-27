@@ -36,27 +36,27 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 <table>
   <tr>
     <td align="center" valign="top" width="100">
-      <img src="./PS-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br><br>
+      <img src="./PS-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain; margin-bottom: 12px;"><br>
       <b>Photoshop</b>
     </td>
     <td align="center" valign="top" width="100">
-      <img src="./AI.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br><br>
+      <img src="./AI.png" width="50" height="50" style="border-radius: 10px; object-fit: contain; margin-bottom: 12px;"><br>
       <b>Illustrator</b>
     </td>
     <td align="center" valign="top" width="100">
-      <img src="./after effect-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br><br>
+      <img src="./after effect-Photoroom.png" width="50" height="50" style="border-radius: 10px; object-fit: contain; margin-bottom: 12px;"><br>
       <b>After Effects</b>
     </td>
     <td align="center" valign="top" width="100">
-      <img src="./pr new.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br><br>
+      <img src="./pr new.png" width="50" height="50" style="border-radius: 10px; object-fit: contain; margin-bottom: 12px;"><br>
       <b>Premiere Pro</b>
     </td>
     <td align="center" valign="top" width="100">
-      <img src="./figma new1.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br><br>
+      <img src="./figma new1.png" width="50" height="50" style="border-radius: 10px; object-fit: contain; margin-bottom: 12px;"><br>
       <b>Figma</b>
     </td>
     <td align="center" valign="top" width="100">
-      <img src="./capcut new1.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br><br>
+      <img src="./capcut new1.png" width="50" height="50" style="border-radius: 10px; object-fit: contain; margin-bottom: 12px;"><br>
       <b>CapCut</b>
     </td>
   </tr>
