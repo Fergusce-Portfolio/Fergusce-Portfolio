@@ -56,7 +56,7 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
       <b>Figma</b>
     </td>
     <td align="center" valign="top" width="50">
-      <img src="./capcut.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
+      <img src="./capcut new1.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
       <b>CapCut</b>
     </td>
   </tr>
