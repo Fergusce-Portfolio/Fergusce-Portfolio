@@ -52,7 +52,7 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
       <b>Premiere Pro</b>
     </td>
     <td align="center" valign="top" width="50">
-      <img src="./figma new.png" width="50" height="50" style="border-radius: 100px; object-fit: contain;"><br>
+      <img src="./figma new.png" width="50" height="50" style="border-radius: 12px; overflow: hidden; display: block;"><br>
       <b>Figma</b>
     </td>
     <td align="center" valign="top" width="50">
