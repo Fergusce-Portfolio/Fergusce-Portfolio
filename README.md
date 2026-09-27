@@ -53,7 +53,7 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
     </td>
    <td align="center" valign="top" width="50">
   <img src="./figma new1.png" width="50" height="50"><br>
-  <b>Figma</b>
+  <span style="line-height: 20px;"><b>Figma</b></span>
 </td>
     <td align="center" valign="top" width="50">
       <img src="./capcut new1.png" width="50" height="50" style="border-radius: 10px; object-fit: contain;"><br>
