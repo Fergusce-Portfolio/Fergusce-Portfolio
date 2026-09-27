@@ -33,7 +33,7 @@ Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 - Video Editing
   
 ## 💻 Tools & Software
-<img src="./images/PS-Photoroom" width="50">
+<img src="./images/PS-Photoroom.png" width="50">
 - Adobe Photoshop
 - Adobe Illustrator
 - Adobe After Effects
