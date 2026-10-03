@@ -22,9 +22,7 @@ My personal Creative Multimedia portfolio.
 
 Intern duration **01-JUNE-2026 - 30-SEPTEMBER-2026**
 
-**HOTLINK** [View Project →]
-
-**Nestlé** [View Project →]
+[View Project →](https://www.canva.com/design/DAHWafxDS_A/sj2IcIocdYyi2fBUhbpR_w/edit)
 
 ## 🛠️ Skills
 - Adobe Creative Cloud
